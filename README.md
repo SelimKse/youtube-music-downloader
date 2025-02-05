@@ -27,8 +27,8 @@ Bağımlılıklar:
 
 1. **Projeyi klonlayın:**
 ```bash
-git clone https://github.com/kullanici/muzik-indirici.git
-cd muzik-indirici
+git clone https://github.com/SelimKse/youtube-music-downloader.git
+cd youtube-music-downloader
 ```
 2. **Bağımlılıkları yükleyin:**
 ```bash
